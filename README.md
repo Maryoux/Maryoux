@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Marvin Young
+
+Currrently learning on Javascript
 
 # Github Performance
 

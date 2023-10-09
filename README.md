@@ -3,7 +3,6 @@
 ![gitStat](https://github-readme-stats.vercel.app/api?username=maryoux&show_icons=true&theme=bear)
 - 📖 Learning on Cyber Security
 - 🔍 I’m currently looking job
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryoux&label=Profile%20views&color=0e75b6&style=flat" alt="maryoux" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 

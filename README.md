@@ -4,7 +4,7 @@
 ![gitStat](https://github-readme-stats.vercel.app/api?username=maryoux&show_icons=true&theme=bear)
 <div align="left">
   
-- 📖 Learning on Cyber Security
+- 📖 Learning on Cyber Security & Smart Contract Auditor
 - 🔍 I’m currently looking job
   
 </div>

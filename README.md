@@ -28,9 +28,3 @@
 </p>
 
 ---
-
----
-
-<p align="center">
-  🟣 Built with passion & consistency
-</p>

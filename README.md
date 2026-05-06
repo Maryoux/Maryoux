@@ -1,6 +1,6 @@
 <h1 align="center">Maryoux's Profile</h1>
 <p align="center">
-  <i>Cyber Security • Smart Contract Auditor • Builder</i>
+  <i>Larper • Dreamer • Gambler</i>
 </p>
 
 ---

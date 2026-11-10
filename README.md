@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Maryoux 👋
+# Maryoux
 
 **Curious by nature. Building, learning, and exploring what comes next.**
 
